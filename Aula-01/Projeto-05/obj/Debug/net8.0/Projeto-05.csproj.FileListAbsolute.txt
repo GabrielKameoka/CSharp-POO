@@ -1,0 +1,15 @@
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\bin\Debug\net8.0\Projeto-05.exe
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\bin\Debug\net8.0\Projeto-05.deps.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\bin\Debug\net8.0\Projeto-05.runtimeconfig.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\bin\Debug\net8.0\Projeto-05.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\bin\Debug\net8.0\Projeto-05.pdb
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.AssemblyInfoInputs.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.AssemblyInfo.cs
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.csproj.CoreCompileInputs.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.sourcelink.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\refint\Projeto-05.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.pdb
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\Projeto-05.genruntimeconfig.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-05\obj\Debug\net8.0\ref\Projeto-05.dll

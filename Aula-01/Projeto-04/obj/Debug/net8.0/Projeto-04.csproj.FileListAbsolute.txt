@@ -1,0 +1,15 @@
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\bin\Debug\net8.0\Projeto-04.exe
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\bin\Debug\net8.0\Projeto-04.deps.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\bin\Debug\net8.0\Projeto-04.runtimeconfig.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\bin\Debug\net8.0\Projeto-04.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\bin\Debug\net8.0\Projeto-04.pdb
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.AssemblyInfoInputs.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.AssemblyInfo.cs
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.csproj.CoreCompileInputs.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.sourcelink.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\refint\Projeto-04.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.pdb
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\Projeto-04.genruntimeconfig.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Projeto-04\obj\Debug\net8.0\ref\Projeto-04.dll
