@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Projeto03{
+namespace Aula01{
     class Program{
         static void Main(string[] args){
 

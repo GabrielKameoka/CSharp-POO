@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Projeto1 {
+namespace Aula01 {
     class Program {
         static void Main (string[] args) {
 
