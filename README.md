@@ -1,3 +1,3 @@
 # CSharp-POO
 
-## Material usado nas aulas de C#
+This repository show my notebook used in C# classes.
