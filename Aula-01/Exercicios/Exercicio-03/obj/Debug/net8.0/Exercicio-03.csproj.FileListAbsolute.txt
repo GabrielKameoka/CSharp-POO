@@ -1,0 +1,15 @@
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.AssemblyInfoInputs.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.AssemblyInfo.cs
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.csproj.CoreCompileInputs.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.sourcelink.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\bin\Debug\net8.0\Exercicio-03.exe
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\bin\Debug\net8.0\Exercicio-03.deps.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\bin\Debug\net8.0\Exercicio-03.runtimeconfig.json
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\bin\Debug\net8.0\Exercicio-03.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\bin\Debug\net8.0\Exercicio-03.pdb
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\refint\Exercicio-03.dll
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.pdb
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\Exercicio-03.genruntimeconfig.cache
+C:\Users\Takao\Documents\Programacao\Estudos\Udemy\CSharp-POO\Aula-01\Exercicios\Exercicio-03\obj\Debug\net8.0\ref\Exercicio-03.dll
