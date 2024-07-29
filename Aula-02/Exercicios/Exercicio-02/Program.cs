@@ -16,10 +16,10 @@ namespace Exercicio2_2
             System.Console.Write("Salário da primeira pessoa:");
             p1.Salario = double.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Dados da primeira pessoa:");
+            System.Console.WriteLine("Dados da segunda pessoa:");
             System.Console.Write("Nome: ");
             p2.Nome = Console.ReadLine();
-            System.Console.Write("Salário da primeira pessoa:");
+            System.Console.Write("Salário da segunda pessoa:");
             p2.Salario = double.Parse(Console.ReadLine());
 
             double SalarioMedio = (p1.Salario + p2.Salario) / 2;

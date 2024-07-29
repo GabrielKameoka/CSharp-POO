@@ -25,11 +25,9 @@ namespace Projeto1_2
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areax = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            double areax = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areay = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areay = y.Area();
 
             System.Console.WriteLine($"Área de x = {areax}");
             System.Console.WriteLine($"Área de x = {areay}");
@@ -42,6 +40,9 @@ namespace Projeto1_2
             {
                 System.Console.WriteLine("A área maior é o triangulo y");
             }
+            
+
+
         }
     }
 }
