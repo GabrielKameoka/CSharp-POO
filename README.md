@@ -65,12 +65,12 @@ namespace Exercicio5_2
 ```
 This C# program simulates a basic employee management system. It can:
 
-*Create an employee object:* Instantiates a Funcionario object to store employee information.  
-*Input data:* Prompts the user to enter the employee's name, gross salary, and tax amount.  
-*Calculate net salary:* Calculates the employee's net salary by subtracting the tax from the gross salary.  
-*Display information:* Displays the employee's name and formatted net salary (with two decimal places).  
-*Increase salary:* Allows the user to increase the employee's gross salary by a specified percentage.  
-*Update information:* Displays the employee's updated information after the salary increase.  
+****Create an employee object:**** Instantiates a Funcionario object to store employee information.  
+**Input data:** Prompts the user to enter the employee's name, gross salary, and tax amount.  
+**Calculate net salary:** Calculates the employee's net salary by subtracting the tax from the gross salary.  
+**Display information:** Displays the employee's name and formatted net salary (with two decimal places).  
+**Increase salary:** Allows the user to increase the employee's gross salary by a specified percentage.  
+**Update information:** Displays the employee's updated information after the salary increase.  
 <hr>
 
 This is just a small exercise proposed in class. If you want to learn with the same course, this is <a href="https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/?couponCode=MCLARENT71824">C# COMPLETO Programação Orientada a Objetos + Projetos</a>
