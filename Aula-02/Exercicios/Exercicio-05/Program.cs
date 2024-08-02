@@ -1,7 +1,31 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Exercicio5_2
 {
+    class Funcionario
+    {
+        public string Nome;
+        public double SalarioBruto;
+        public double Imposto;
+
+        public double SalarioLiquido ()
+        {
+            return SalarioBruto - Imposto;
+        }
+
+
+        public void AumentarSalario (double porcentagem)
+        {
+            SalarioBruto = SalarioBruto + ( SalarioBruto * porcentagem / 100.0 );
+        }
+
+        public override string ToString ()
+        {
+            return $"{Nome}, R$ {SalarioLiquido ().ToString ("F2")}";
+        }
+    }
+
     class Program
     {
         static void Main (string[] args)
@@ -16,7 +40,7 @@ namespace Exercicio5_2
             fun.Imposto = double.Parse( Console.ReadLine() );
 
             Console.WriteLine();
-            Console.WriteLine("Funcionário : " + fun);
+            Console.WriteLine("Funcionário: " + fun);
 
             Console.WriteLine();
             Console.Write("Digite a porcentagem para aumentar o salário: ");
