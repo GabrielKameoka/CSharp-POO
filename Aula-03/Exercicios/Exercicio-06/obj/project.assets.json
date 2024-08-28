@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-04\\Projeto-03\\Projeto-03.csproj",
-      "projectName": "Projeto-03",
-      "projectPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-04\\Projeto-03\\Projeto-03.csproj",
+      "projectUniqueName": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-06\\Exercicio-06.csproj",
+      "projectName": "Exercicio-06",
+      "projectPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-06\\Exercicio-06.csproj",
       "packagesPath": "C:\\Users\\Takao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-04\\Projeto-03\\obj\\",
+      "outputPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Takao\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-04\\Projeto-03\\Projeto-03.csproj",
-      "projectName": "Projeto-03",
-      "projectPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-04\\Projeto-03\\Projeto-03.csproj",
+      "projectUniqueName": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-01-Heranca\\Projeto-01-Heranca.csproj",
+      "projectName": "Projeto-01-Heranca",
+      "projectPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-01-Heranca\\Projeto-01-Heranca.csproj",
       "packagesPath": "C:\\Users\\Takao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-04\\Projeto-03\\obj\\",
+      "outputPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-01-Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Takao\\AppData\\Roaming\\NuGet\\NuGet.Config"
