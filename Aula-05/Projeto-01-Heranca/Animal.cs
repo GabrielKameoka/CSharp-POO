@@ -2,12 +2,18 @@
 
 public class Animal //Declarando uma classe base(superclasse)
 {
-    public string Name { get; set; }
-    public int Age { get; set; }
+    public string Name
+    {
+        get; set;
+    }
+    public int Age
+    {
+        get; set;
+    }
 
     public Animal ()
     {
-    
+
     }
 
     public Animal (string name, int age)
@@ -24,14 +30,17 @@ public class Animal //Declarando uma classe base(superclasse)
 
 public class Dog : Animal //Herdando da classe base "Animal"
 {
-    public int Teeth{ get; set; }
+    public int Teeth
+    {
+        get; set;
+    }
 
     public Dog ()
     {
-    
+
     }
 
-    public Dog (string name, int age, int teeth)  : base (name, age) //herdando os construtores da classe base "Animal"
+    public Dog (string name, int age, int teeth) : base (name, age) //herdando os construtores da classe base "Animal"
     {
         Teeth = teeth;
     }
@@ -45,5 +54,29 @@ public class Dog : Animal //Herdando da classe base "Animal"
     {
         Console.WriteLine ();
         Console.WriteLine ($"O(a) cachorro(a) '{Name}' está com {Age} anos de idade e tem {Teeth} dentes.");
+    }
+}
+
+public class Cat : Animal
+{
+    public int Claw { get; set; }
+
+    public Cat ()
+    {
+    }
+
+    public Cat (string name, int age, int claw) : base (name, age)
+    {
+    }
+
+    public void Meow ()
+    {
+        Console.WriteLine ("Miau miau!!");
+    }
+
+    public override void Apresentar ()
+    {
+        Console.WriteLine ();
+        Console.WriteLine ($"O(a) gato(a) '{Name}' está com {Age} anos de idade e tem {Claw} garras.");
     }
 }
