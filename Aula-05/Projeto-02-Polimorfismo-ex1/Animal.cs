@@ -1,27 +1,16 @@
-namespace Projeto2_5
+namespace Projeto2_5;
+class Animal
 {
-    class Animal
+    public string Nome { get; set; }
+    public int Idade { get; set; }
+
+    public Animal(string nome, int idade)
     {
-        public virtual void FazerSom ()
-        {
-            Console.WriteLine ("Fazendo um som gen�rico");
-        }
+        Nome = nome;
+        Idade = idade;
     }
-
-    class Cachorro : Animal
+    public void Apresentar()
     {
-        public override void FazerSom ()
-        {
-            Console.WriteLine ("Au au!");
-        }
-    }
-
-    class Gato : Animal
-    {
-        public override void FazerSom ()
-        {
-            Console.WriteLine ("Miau!");
-
-        }
+        Console.WriteLine($"Olá, sou um animal, meu nome é {Nome} e tenho {Idade} anos. Sim, eu falo.");
     }
 }

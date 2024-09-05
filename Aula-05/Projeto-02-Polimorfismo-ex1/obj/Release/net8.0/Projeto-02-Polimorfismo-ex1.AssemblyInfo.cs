@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto-02-Polimorfismo-ex1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da92a69e66439f384b4f0ad2d5969e0fdea6429")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20aa3f22b74e8140659f1cee05fc9efaa1a77d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto-02-Polimorfismo-ex1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto-02-Polimorfismo-ex1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

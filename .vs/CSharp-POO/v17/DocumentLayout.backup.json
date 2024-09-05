@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,9 +28,9 @@
               "RelativeDocumentMoniker": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
               "ToolTip": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
               "RelativeToolTip": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:05:29.343Z",
+              "WhenOpened": "2024-09-04T16:03:36.082Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +41,10 @@
               "RelativeDocumentMoniker": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
               "ToolTip": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
               "RelativeToolTip": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:07:17.833Z"
+              "WhenOpened": "2024-09-04T16:03:42.327Z",
+              "EditorCaption": ""
             }
           ]
         }
