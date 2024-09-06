@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\bin\Debug\net8.0\Projeto-06-ClasseObject.exe
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\bin\Debug\net8.0\Projeto-06-ClasseObject.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\bin\Debug\net8.0\Projeto-06-ClasseObject.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\bin\Debug\net8.0\Projeto-06-ClasseObject.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\bin\Debug\net8.0\Projeto-06-ClasseObject.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\refint\Projeto-06-ClasseObject.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\Projeto-06-ClasseObject.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-06-ClasseObject\obj\Debug\net8.0\ref\Projeto-06-ClasseObject.dll

@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\bin\Debug\net8.0\Projeto-05-ClasseSelada.exe
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\bin\Debug\net8.0\Projeto-05-ClasseSelada.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\bin\Debug\net8.0\Projeto-05-ClasseSelada.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\bin\Debug\net8.0\Projeto-05-ClasseSelada.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\bin\Debug\net8.0\Projeto-05-ClasseSelada.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\refint\Projeto-05-ClasseSelada.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\Projeto-05-ClasseSelada.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-05-ClasseSelada\obj\Debug\net8.0\ref\Projeto-05-ClasseSelada.dll

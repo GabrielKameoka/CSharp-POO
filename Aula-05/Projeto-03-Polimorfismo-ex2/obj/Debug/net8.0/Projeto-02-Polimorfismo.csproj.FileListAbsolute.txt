@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\bin\Debug\net8.0\Projeto-02-Polimorfismo.exe
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\bin\Debug\net8.0\Projeto-02-Polimorfismo.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\bin\Debug\net8.0\Projeto-02-Polimorfismo.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\bin\Debug\net8.0\Projeto-02-Polimorfismo.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\bin\Debug\net8.0\Projeto-02-Polimorfismo.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\refint\Projeto-02-Polimorfismo.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\Projeto-02-Polimorfismo.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-03-Polimorfismo-ex2\obj\Debug\net8.0\ref\Projeto-02-Polimorfismo.dll

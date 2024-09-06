@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\bin\Debug\net8.0\Projeto-04-ClasseAbstrata.exe
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\bin\Debug\net8.0\Projeto-04-ClasseAbstrata.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\bin\Debug\net8.0\Projeto-04-ClasseAbstrata.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\bin\Debug\net8.0\Projeto-04-ClasseAbstrata.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\bin\Debug\net8.0\Projeto-04-ClasseAbstrata.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\refint\Projeto-04-ClasseAbstrata.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\Projeto-04-ClasseAbstrata.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\Projeto-04-ClasseAbstrata\obj\Debug\net8.0\ref\Projeto-04-ClasseAbstrata.dll
