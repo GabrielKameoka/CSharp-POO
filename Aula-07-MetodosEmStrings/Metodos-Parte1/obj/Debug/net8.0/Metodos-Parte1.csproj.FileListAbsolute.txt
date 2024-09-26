@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\bin\Debug\net8.0\Metodos-Parte1.exe
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\bin\Debug\net8.0\Metodos-Parte1.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\bin\Debug\net8.0\Metodos-Parte1.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\bin\Debug\net8.0\Metodos-Parte1.dll
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\bin\Debug\net8.0\Metodos-Parte1.pdb
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.dll
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\refint\Metodos-Parte1.dll
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.pdb
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\Metodos-Parte1.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\NewFolder\Metodos-Parte1\obj\Debug\net8.0\ref\Metodos-Parte1.dll
