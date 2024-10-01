@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\bin\Debug\net8.0\DateTime.exe
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\bin\Debug\net8.0\DateTime.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\bin\Debug\net8.0\DateTime.dll
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\bin\Debug\net8.0\DateTime.pdb
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.dll
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.pdb
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-07-MetodosEmStrings\DateTime\obj\Debug\net8.0\ref\DateTime.dll

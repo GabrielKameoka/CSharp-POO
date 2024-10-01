@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\",
+  "WorkspaceRootPath": "C:\\dev\\Udemy\\CSharp-POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-07-MetodosEmStrings\\DateTime\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
-              "RelativeDocumentMoniker": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
-              "ToolTip": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
-              "RelativeToolTip": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
+              "RelativeDocumentMoniker": "Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
+              "ToolTip": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
+              "RelativeToolTip": "Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T16:03:36.082Z",
+              "WhenOpened": "2024-10-01T13:31:37.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
-              "RelativeDocumentMoniker": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
-              "ToolTip": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
-              "RelativeToolTip": "Aula-05\\Projeto-02-Polimorfismo-ex1\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
+              "RelativeDocumentMoniker": "Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
+              "ToolTip": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
+              "RelativeToolTip": "Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T16:03:42.327Z",
+              "WhenOpened": "2024-10-01T13:13:13.466Z",
               "EditorCaption": ""
             }
           ]

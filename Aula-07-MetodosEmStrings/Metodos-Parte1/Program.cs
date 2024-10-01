@@ -7,7 +7,7 @@ class Program
     static void Main (string[] args)
     {
 
-        string original = "meu nome é Julia!!!";
+        string original = "meu nome é Julia!!!          ";
         Console.WriteLine($"A string original é: {original}");
 
         Console.WriteLine();
@@ -53,6 +53,13 @@ class Program
         bool NullOrEmpty = string.IsNullOrEmpty (original);
         Console.WriteLine(NullOrEmpty);
 
+        Console.WriteLine();
+
+        Console.WriteLine("Método trim");
+        string trim = original.Trim ();
+        Console.WriteLine("-" + trim + "-");
+
+        Console.WriteLine();
 
 
 
