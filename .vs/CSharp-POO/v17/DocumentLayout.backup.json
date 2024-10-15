@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\dev\\Udemy\\CSharp-POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-07-MetodosEmStrings\\DateTime\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Udemy\\CSharp-POO\\Aula-08-Aprofundamentos\\EnumsParte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-08-Aprofundamentos\\EnumsParte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Udemy\\CSharp-POO\\Aula-08-Aprofundamentos\\EnumsParte1\\Entities\\Meses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula-08-Aprofundamentos\\EnumsParte1\\Entities\\Meses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
-              "RelativeDocumentMoniker": "Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
-              "ToolTip": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
-              "RelativeToolTip": "Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Meses.cs",
+              "DocumentMoniker": "C:\\dev\\Udemy\\CSharp-POO\\Aula-08-Aprofundamentos\\EnumsParte1\\Entities\\Meses.cs",
+              "RelativeDocumentMoniker": "Aula-08-Aprofundamentos\\EnumsParte1\\Entities\\Meses.cs",
+              "ToolTip": "C:\\dev\\Udemy\\CSharp-POO\\Aula-08-Aprofundamentos\\EnumsParte1\\Entities\\Meses.cs",
+              "RelativeToolTip": "Aula-08-Aprofundamentos\\EnumsParte1\\Entities\\Meses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:31:37.825Z",
+              "WhenOpened": "2024-10-07T17:05:10.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
-              "RelativeDocumentMoniker": "Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
-              "ToolTip": "C:\\dev\\Udemy\\CSharp-POO\\Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
-              "RelativeToolTip": "Aula-07-MetodosEmStrings\\Metodos-Parte1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\Udemy\\CSharp-POO\\Aula-08-Aprofundamentos\\EnumsParte1\\Program.cs",
+              "RelativeDocumentMoniker": "Aula-08-Aprofundamentos\\EnumsParte1\\Program.cs",
+              "ToolTip": "C:\\dev\\Udemy\\CSharp-POO\\Aula-08-Aprofundamentos\\EnumsParte1\\Program.cs",
+              "RelativeToolTip": "Aula-08-Aprofundamentos\\EnumsParte1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:13:13.466Z",
+              "WhenOpened": "2024-10-07T17:04:12.878Z",
               "EditorCaption": ""
             }
           ]

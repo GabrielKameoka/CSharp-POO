@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Aula-07-MetodosEmStrings",
-    "\\Aula-07-MetodosEmStrings\\DateTime"
+    "\\Aula-06-APIs\\Projeto-01-EntityFramework\\Entities",
+    "\\Aula-08-Aprofundamentos",
+    "\\Aula-08-Aprofundamentos\\EnumsParte1\\Entities",
+    "\\Aula-08-Aprofundamentos\\ExercicioComposicao\\Entities",
+    "\\Aula-08-Aprofundamentos\\ExercicioComposicao\\Entities\\Enums"
   ],
-  "SelectedNode": "\\Aula-07-MetodosEmStrings\\DateTime\\Program.cs",
+  "SelectedNode": "\\Aula-08-Aprofundamentos\\EnumsParte1",
   "PreviewInSolutionExplorer": false
 }

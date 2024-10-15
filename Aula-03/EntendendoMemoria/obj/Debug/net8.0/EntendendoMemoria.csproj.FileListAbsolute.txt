@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\bin\Debug\net8.0\EntendendoMemoria.exe
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\bin\Debug\net8.0\EntendendoMemoria.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\bin\Debug\net8.0\EntendendoMemoria.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\bin\Debug\net8.0\EntendendoMemoria.dll
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\bin\Debug\net8.0\EntendendoMemoria.pdb
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.dll
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\refint\EntendendoMemoria.dll
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.pdb
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\EntendendoMemoria.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-03\EntendendoMemoria\obj\Debug\net8.0\ref\EntendendoMemoria.dll

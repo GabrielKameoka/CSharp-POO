@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\bin\Debug\net8.0\EnumsParte1.exe
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\bin\Debug\net8.0\EnumsParte1.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\bin\Debug\net8.0\EnumsParte1.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\bin\Debug\net8.0\EnumsParte1.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\bin\Debug\net8.0\EnumsParte1.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\refint\EnumsParte1.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\EnumsParte1.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\EnumsParte1\obj\Debug\net8.0\ref\EnumsParte1.dll
