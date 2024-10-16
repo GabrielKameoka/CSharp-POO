@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ExercicioComposicao;
+namespace ExercicioComposicao.Entities;
 
 public class HourContract
 {

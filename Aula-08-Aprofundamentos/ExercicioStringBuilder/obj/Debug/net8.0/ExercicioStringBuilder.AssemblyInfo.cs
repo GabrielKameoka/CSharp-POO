@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EnumsParte1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioStringBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fc567a2d9bd09dd00b9dd8dd7a9255e21b22b3f")]
-[assembly: System.Reflection.AssemblyProductAttribute("EnumsParte1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EnumsParte1")]
+[assembly: System.Reflection.AssemblyProductAttribute("ExercicioStringBuilder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ExercicioStringBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

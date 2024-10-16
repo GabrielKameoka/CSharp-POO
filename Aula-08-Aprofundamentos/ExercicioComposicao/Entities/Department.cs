@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ExercicioComposicao;
+namespace ExercicioComposicao.Entities;
 
 public class Department
 {
@@ -14,7 +14,6 @@ public class Department
 
     public Department (string name)
     {
-
         Name = name;
     }
 }

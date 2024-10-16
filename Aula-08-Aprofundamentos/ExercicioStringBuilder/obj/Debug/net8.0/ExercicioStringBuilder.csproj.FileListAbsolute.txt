@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.exe
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\refint\ExercicioStringBuilder.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioStringBuilder\obj\Debug\net8.0\ref\ExercicioStringBuilder.dll

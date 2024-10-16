@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.exe
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\refint\ExercicioComposicao.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\ExercicioComposicao\obj\Debug\net8.0\ref\ExercicioComposicao.dll
