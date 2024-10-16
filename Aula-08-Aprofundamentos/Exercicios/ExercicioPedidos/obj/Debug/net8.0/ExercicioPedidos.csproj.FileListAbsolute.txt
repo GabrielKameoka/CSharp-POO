@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\bin\Debug\net8.0\ExercicioPedidos.exe
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\bin\Debug\net8.0\ExercicioPedidos.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\bin\Debug\net8.0\ExercicioPedidos.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\bin\Debug\net8.0\ExercicioPedidos.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\bin\Debug\net8.0\ExercicioPedidos.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\refint\ExercicioPedidos.dll
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.pdb
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ExercicioPedidos.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-08-Aprofundamentos\Exercicios\ExercicioPedidos\obj\Debug\net8.0\ref\ExercicioPedidos.dll
