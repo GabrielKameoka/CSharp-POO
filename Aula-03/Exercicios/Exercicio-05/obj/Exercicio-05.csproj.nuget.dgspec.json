@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj": {}
+    "C:\\dev\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj": {
+    "C:\\dev\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj",
+        "projectUniqueName": "C:\\dev\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj",
         "projectName": "Exercicio-05",
-        "projectPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj",
+        "projectPath": "C:\\dev\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\Exercicio-05.csproj",
         "packagesPath": "C:\\Users\\Takao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Takao\\Documents\\Programacao\\Estudos\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\obj\\",
+        "outputPath": "C:\\dev\\Udemy\\CSharp-POO\\Aula-03\\Exercicios\\Exercicio-05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

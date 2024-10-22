@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.exe
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\refint\ExercicioProposto.dll
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.pdb
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-05\ExercicioProposto\obj\Debug\net8.0\ref\ExercicioProposto.dll
