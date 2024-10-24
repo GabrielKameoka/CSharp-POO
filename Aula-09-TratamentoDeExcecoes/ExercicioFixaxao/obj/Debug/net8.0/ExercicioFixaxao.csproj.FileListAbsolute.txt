@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\bin\Debug\net8.0\ExercicioFixaxao.exe
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\bin\Debug\net8.0\ExercicioFixaxao.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\bin\Debug\net8.0\ExercicioFixaxao.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\bin\Debug\net8.0\ExercicioFixaxao.dll
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\bin\Debug\net8.0\ExercicioFixaxao.pdb
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.dll
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\refint\ExercicioFixaxao.dll
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.pdb
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ExercicioFixaxao.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-09-TratamentoDeExcecoes\ExercicioFixaxao\obj\Debug\net8.0\ref\ExercicioFixaxao.dll
