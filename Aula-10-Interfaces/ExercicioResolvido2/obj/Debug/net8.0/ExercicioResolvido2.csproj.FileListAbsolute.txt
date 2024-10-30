@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.exe
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.dll
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.pdb
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.dll
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\refint\ExercicioResolvido2.dll
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.pdb
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioResolvido2\obj\Debug\net8.0\ref\ExercicioResolvido2.dll
