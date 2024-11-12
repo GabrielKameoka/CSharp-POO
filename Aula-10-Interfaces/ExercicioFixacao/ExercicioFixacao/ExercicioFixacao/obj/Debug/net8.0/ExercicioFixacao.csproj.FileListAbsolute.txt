@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-10-Interfaces\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll

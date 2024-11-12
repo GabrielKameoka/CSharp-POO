@@ -5,7 +5,7 @@ namespace ExercicioResolvido2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             ILog logDebug = new LogDebug();
             logDebug.Registrar("Operação realizada com sucesso.");
@@ -13,5 +13,5 @@ namespace ExercicioResolvido2
             ILog logErro = new LogErro();
             logErro.Registrar("Ocorreu um erro inesperado.");
         }
-    }
 }
+    }
