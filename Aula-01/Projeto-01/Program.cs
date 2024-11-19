@@ -1,17 +1,20 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Aula01 {
-    class Program {
-        static void Main (string[] args) {
-
-            int idade = 32;
-            double saldo = 10.12345;
-            string nome = "Maria";
-
-            Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais.", nome, idade, saldo);
-            Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais.");
-            Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais.");
+namespace Aula01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine(Round(4.3333));
+            
+        }
+        public static float Round(double n)
+        {
+            string arredondando = n.ToString("F2");
+            float numeroConvertido = float.Parse(arredondando);
+            return numeroConvertido;
         }
     }
 }

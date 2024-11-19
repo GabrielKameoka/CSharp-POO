@@ -1,35 +1,29 @@
 ﻿using System;
 using System.Globalization;
-
-public class Product
-{
-    public string Name { get; set; }
-    public double Price { get; set; }
-}
-
 class Program
 {
     static void Main(string[] args)
     {
-        System.Console.WriteLine("São quantos produtos?");
-        int n = int.Parse(Console.ReadLine());
-
-        Product[] vect = new Product[n];
-
-        for (int i = 0; i < n; i++)
+        List<int> list1 = new List<int> { 1, 2, 4 };
+        List<int> list2 = new List<int> { 1, 3, 4 };
+        
+        List<int> list = new List<int>();
+        
+        foreach (int num in list1)
         {
-            string name = Console.ReadLine();
-            double price = double.Parse(Console.ReadLine());
-            vect[i] = new Product { Name = name, Price = price }; // Corrected index
+            list.Add(num);
         }
 
-        double soma = 0;
-        for (int i = 0; i < n; i++)
+        foreach (int num in list2)
         {
-            soma += vect[i].Price;
+            list.Add(num);
         }
 
-        double avg = soma / n;
-        System.Console.WriteLine("AVERAGE PRICE: " + avg.ToString("F2", CultureInfo.InvariantCulture));
+        list.Sort();
+
+        foreach (var index in list)
+        {
+            System.Console.WriteLine(index.ToString());
+        }
     }
 }
