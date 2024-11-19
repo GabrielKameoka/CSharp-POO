@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Generics")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceIComparable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9443a47f16b20a450cb76a8a0c6caaef86694fc")]
-[assembly: System.Reflection.AssemblyProductAttribute("Generics")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Generics")]
+[assembly: System.Reflection.AssemblyProductAttribute("InterfaceIComparable")]
+[assembly: System.Reflection.AssemblyTitleAttribute("InterfaceIComparable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
