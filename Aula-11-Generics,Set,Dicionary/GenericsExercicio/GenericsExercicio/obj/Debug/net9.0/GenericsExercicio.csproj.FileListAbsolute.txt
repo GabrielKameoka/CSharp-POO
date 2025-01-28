@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\bin\Debug\net9.0\GenericsExercicio.exe
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\bin\Debug\net9.0\GenericsExercicio.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\bin\Debug\net9.0\GenericsExercicio.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\bin\Debug\net9.0\GenericsExercicio.dll
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\bin\Debug\net9.0\GenericsExercicio.pdb
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.dll
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\refint\GenericsExercicio.dll
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.pdb
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\GenericsExercicio.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\GenericsExercicio\GenericsExercicio\obj\Debug\net9.0\ref\GenericsExercicio.dll

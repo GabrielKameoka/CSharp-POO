@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\bin\Debug\net9.0\Generics2.exe
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\bin\Debug\net9.0\Generics2.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\bin\Debug\net9.0\Generics2.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\bin\Debug\net9.0\Generics2.dll
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\bin\Debug\net9.0\Generics2.pdb
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.dll
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\refint\Generics2.dll
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.pdb
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\Generics2.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-11-Generics,Set,Dicionary\Generics2\Generics2\obj\Debug\net9.0\ref\Generics2.dll
