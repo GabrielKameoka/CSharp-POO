@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net9.0\GetHashCodeEquals.exe
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net9.0\GetHashCodeEquals.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net9.0\GetHashCodeEquals.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net9.0\GetHashCodeEquals.dll
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net9.0\GetHashCodeEquals.pdb
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.dll
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\refint\GetHashCodeEquals.dll
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.pdb
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\GetHashCodeEquals.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-12-GetHashCodeEEquals\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net9.0\ref\GetHashCodeEquals.dll

@@ -1,0 +1,15 @@
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\bin\Debug\net9.0\HashSet.exe
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\bin\Debug\net9.0\HashSet.deps.json
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\bin\Debug\net9.0\HashSet.runtimeconfig.json
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\bin\Debug\net9.0\HashSet.dll
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\bin\Debug\net9.0\HashSet.pdb
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.AssemblyInfo.cs
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.sourcelink.json
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.dll
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\refint\HashSet.dll
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.pdb
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\HashSet.genruntimeconfig.cache
+C:\dev\Udemy\CSharp-POO\Aula-13-HashSet\HashSet\HashSet\obj\Debug\net9.0\ref\HashSet.dll
